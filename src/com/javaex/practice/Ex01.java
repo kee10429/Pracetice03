@@ -23,7 +23,7 @@ public class Ex01 {
 	/*while문
 	index=0
 	index=1
-	index=2
+	index=2 
 	
 	for문
 	order=0

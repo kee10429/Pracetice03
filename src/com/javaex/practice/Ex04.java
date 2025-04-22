@@ -6,7 +6,7 @@ public class Ex04 {
 		for(int i=1; i<5; i++) {
 			System.out.println(i);
 		}
-		
+		ㅇ
 		System.out.println("=============================");
 		
 		for(int i=10; i>10 ; i=i-2) {
@@ -38,7 +38,7 @@ public class Ex04 {
 
 
 
-
+ ㄴ
 
 
 */
